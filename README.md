@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm install @alibaba-inc/match
+npm install @alibaba_inc/match
 ```
 
 ```typescript
