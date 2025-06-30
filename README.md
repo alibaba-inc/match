@@ -9,6 +9,8 @@ npm install @alibaba_inc/match
 ```
 
 ```typescript
+import match from "@alibaba_inc/match";
+
 function App() {
 	let is_boolean = true;
 	let is_boolean_rs = match<boolean, string>(is_boolean, {
