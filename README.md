@@ -1,4 +1,4 @@
-# ts-match
+# match
 
 > TypeScript match.
 
